@@ -101,6 +101,7 @@ body, .app {
 
 .add-contact {
   display: block;
+  border: none;
   width: 73px;
   background: white;
   background-image: url('./icons/person-add.svg');
